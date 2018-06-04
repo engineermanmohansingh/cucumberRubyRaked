@@ -1,0 +1,4 @@
+app_type: web
+browser: firefox
+execution_mode: local
+implicit_wait_timeouts: 10
